@@ -1,0 +1,26 @@
+Section i for corrections of part B
+(select only from the list)
+simple explanation of software designs
+
+dont fill entire pattern table,
+pick out most applicable
+
+UI Desgin Critical part(apply golden rules)
+Dont introduce new objects
+
+PPT:
+Pick most important content from Part A,B,C
+*say about logical story 
+(submit separatly)
+can get feedback in class. 
+can prepare along with partC.
+
+Neetu - listing the corrections of part B
+Kamal Kumar - section 1
+Hardip and Mustafa - section 2
+ (Sebastian/Louie/Naresh)- section 3
+Ikram - section 4
+ (Sebastian/Louie/Naresh)- section 5
+ (Sebastian/Louie/Naresh)- section 6
+
+ 
